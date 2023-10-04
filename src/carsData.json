@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.freepik.com/free-photo/white-offroader-jeep-parking_114579-4007.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais ",
+    "mileage": "6.1km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Toyota Camry",
+    "year": 2022,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$400",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 2,
+    "image": "https://img.freepik.com/free-photo/luxurious-car-parked-highway-with-illuminated-headlight-sunset_181624-60607.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "5.2km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Honda Civic",
+    "year": 2021,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$350",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 3,
+    "image": "https://img.freepik.com/free-photo/white-coupe-sport-car-standing-road-front-view_114579-4005.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "6.8km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Ford Mustang",
+    "year": 2020,
+    "seats": "4 People",
+    "transmission": "Manual",
+    "price_per_month": "$450",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 4,
+    "image": "https://img.freepik.com/free-photo/grey-metallic-color-sport-car-sunset_114579-4081.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "9.5km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Chevrolet Malibu",
+    "year": 2021,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$380",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 5,
+    "image": "https://img.freepik.com/free-photo/black-luxury-sport-sedan-car-standing-race-trace_114579-1169.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "2.8km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Nissan Altima",
+    "year": 2020,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$370",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 6,
+    "image": "https://img.freepik.com/free-photo/low-angle-white-modern-car-outdoors_23-2149385730.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "3.6km/1-liter",
+    "fuel":"Gasoline",
+    "name": "BMW 3 Series",
+    "year": 2022,
+    "seats": "4 People",
+    "transmission": "Automatic",
+    "price_per_month": "$550",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 7,
+    "image": "https://img.freepik.com/free-photo/yellow-sport-car-with-black-autotuning-road_114579-5051.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "2.6km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Volkswagen Golf",
+    "year": 2021,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$370",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 8,
+    "image": "https://img.freepik.com/free-photo/black-luxury-sedan-road_114579-5072.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "4.7km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Tesla Model 3",
+    "year": 2022,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$600",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 9,
+    "image": "https://img.freepik.com/free-photo/white-coupe-sport-car-parking-bridge_114579-4006.jpg?size=626&ext=jpg&ga=GA1.1.1651255339.1696412030&semt=ais",
+    "mileage": "9.2km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Subaru Outback",
+    "year": 2021,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$420",
+    "rent_now_button": "Rent Now"
+  },
+  {
+    "id": 10,
+    "image": "https://img.freepik.com/free-photo/black-cabriolet-parked-port_114579-5232.jpg?size=626&ext=jpg&ga=GA1.2.1651255339.1696412030&semt=ais",
+    "mileage": "9.2km/1-liter",
+    "fuel":"Gasoline",
+    "name": "Audi A4",
+    "year": 2022,
+    "seats": "5 People",
+    "transmission": "Automatic",
+    "price_per_month": "$520",
+    "rent_now_button": "Rent Now"
+  }
+]
